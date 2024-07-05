@@ -1,5 +1,14 @@
 # als
 
+## A240704_RMBDEG_AMGPEAK..RMB40021_GO
+![image](https://github.com/denchugen/als/assets/8020391/c9fe70a1-d2f7-48db-bed6-fede92811a72)
+
+```
+/Volumes/TOSHIBA/ALS/A240704_RMBDEG_AMGPEAK/RMB40021_GO/SH44_MANU_GO_PLOT.R
+IN="RMB40021_GO.RMB4002over4001.plusGreen615.tsv.gene.GOana_BP.ZMZselect.tsv"
+
+/Volumes/TOSHIBA/ALS/A240704_RMBDEG_AMGPEAK/RMB40021_GO/SH44_MANU_GO_PLOT.R.RMB40021_GO.RMB4002over4001.plusGreen615.tsv.gene.GOana_BP.ZMZselect.tsv.png
+```
 ## A240704_RMBDEG_AMGPEAK
 ![image](https://github.com/denchugen/als/assets/8020391/4d457246-de74-4db9-8dbc-88c5670d5bb4)
 ![image](https://github.com/denchugen/als/assets/8020391/8cc14f9c-00bc-407b-9428-bd6a3f0af90f)
