@@ -2,7 +2,7 @@
 
 ## A240704_RMBDEG_AMGPEAK
 ![image](https://github.com/denchugen/als/assets/8020391/4d457246-de74-4db9-8dbc-88c5670d5bb4)
-s![image](https://github.com/denchugen/als/assets/8020391/8931637c-6e4f-4148-9e6c-fc0b4ad17b41)
+![image](https://github.com/denchugen/als/assets/8020391/9428fe69-d8be-439e-92af-7d3e0ef40fb7)
 
 ```
 /Volumes/TOSHIBA/ALS/A240704_RMBDEG_AMGPEAK/DEG-RMB4001-RMB4002/lfc2/SH02_plot_volcano.R
