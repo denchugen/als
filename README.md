@@ -9,6 +9,24 @@ SAR4004AM.RPM.x100.bedgraph.mm10
 1. 取mm10最长的isoform
 2. 有这两个lib的信号去hit，算出RPM
 3. 求出“差异”
+```
+(base) chia-pipe@simonpipe:/mnt/hgfs/H24D9/SM2409/ALS/A240707_DEG_SCATAC_SVR$ ls|cat
+BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed
+SAR4003Amm10.Dedup.L0.D34.Sorted.bam
+SAR4003Amm10.Dedup.L0.D34.Sorted.bam.bai
+SAR4004Amm10.Dedup.L0.D34.Sorted.bam
+SAR4004Amm10.Dedup.L0.D34.Sorted.bam.bai```
+
+(chia-pipe) chia-pipe@simonpipe:/mnt/hgfs/H24D9/SM2409/ALS/A240707_DEG_SCATAC_SVR$ bedtools multicov -bams SAR4003Amm10.Dedup.L0.D34.Sorted.bam SAR4004Amm10.Dedup.L0.D34.Sorted.bam -bed BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed > BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_SAR4003AM_SAR4004AM.cov
+
+(base) chia-pipe@simonpipe:/mnt/hgfs/H24D9/SM2409/ALS/A240707_DEG_SCATAC_SVR$ head BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_SAR4003AM_SAR4004AM.cov 
+chr1	3073253	3074323	ENSMUST00000193812.1	4933401J01Rik	+	45	24
+chr1	3102016	3102126	ENSMUST00000082908.1	Gm26206	+	12	12
+chr1	3252757	3253237	ENSMUST00000192857.1	Gm18956	+	66	65
+chr1	3365731	3368550	ENSMUST00000195335.1	Gm37180	-	407	393
+chr1	3375556	3377789	ENSMUST00000192336.1	Gm37363	-	187	253
+
+```
 ---
 
 ## A240705_MS_GO
