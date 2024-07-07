@@ -6,6 +6,9 @@
 SAR4003AM.RPM.x100.bedgraph.mm10
 SAR4004AM.RPM.x100.bedgraph.mm10
 
+1. 取mm10最长的isoform
+2. 有这两个lib的信号去hit，算出RPM
+3. 求出“差异”
 ---
 
 ## A240705_MS_GO
