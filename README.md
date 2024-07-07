@@ -26,6 +26,22 @@ chr1	3252757	3253237	ENSMUST00000192857.1	Gm18956	+	66	65
 chr1	3365731	3368550	ENSMUST00000195335.1	Gm37180	-	407	393
 chr1	3375556	3377789	ENSMUST00000192336.1	Gm37363	-	187	253
 
+
+```
+```
+(base) chia-pipe@simonpipe:/mnt/hgfs/JK2410/20240513/SAR4003A/SAR4003Amm10$ cat RPMCoverage.x100.sh 
+#!/bin/bash
+
+paste <(awk '{OFS="\t"; print $1,$2,$3}' SAR4003Amm10.Dedup.L0.D34.bedgraph.mm10)  <(awk '{OFS="\t"; printf("%.2f\n", ($4/109181054)*100000000)}' SAR4003Amm10.Dedup.L0.D34.bedgraph.mm10) > SAR4003AM.RPM.x100.bedgraph
+
+(base) chia-pipe@simonpipe:/mnt/hgfs/JK2410/20240513/SAR4003A/SAR4003Amm10$ cd ../../SAR4004A/SAR4004Amm10/
+(base) chia-pipe@simonpipe:/mnt/hgfs/JK2410/20240513/SAR4004A/SAR4004Amm10$ cat RPMCoverage.x100.sh 
+#!/bin/bash
+
+paste <(awk '{OFS="\t"; print $1,$2,$3}' SAR4004Amm10.Dedup.L0.D34.bedgraph.mm10)  <(awk '{OFS="\t"; printf("%.2f\n", ($4/104463600)*100000000)}' SAR4004Amm10.Dedup.L0.D34.bedgraph.mm10) > SAR4004AM.RPM.x100.bedgraph
+
+(base) chia-pipe@simonpipe:/mnt/hgfs/JK2410/20240513/SAR4004A/SAR4004Amm10$ 
+
 ```
 ---
 
