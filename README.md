@@ -1,9 +1,18 @@
 # als
+## /Volumes/TOSHIBA/ALS/A240708_CMB4017PR50_4018GFP_CHIPcDNA
+![image](https://github.com/denchugen/als/assets/8020391/6946aeb5-166e-46cb-951f-d1b3287b16ba)
+```
+/Volumes/TOSHIBA/ALS/A240708_CMB4017PR50_4018GFP_CHIPcDNA/SH07_UNIQ_PLOT_SIGN_0.9.R
+/Volumes/TOSHIBA/ALS/A240708_CMB4017PR50_4018GFP_CHIPcDNA/SH08_UNIQ_PLOT_SIGN.R
 
-
+BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_CMB4017GFP_CMB4018PR50_R2.cov.RPM.Prob_0.6.BINOM.yesSign.uniqisoCMB4017GFPgene.tsv.
+BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_CMB4017GFP_CMB4018PR50_R2.cov.RPM.Prob_0.6.BINOM.yesSign.uniqisoCMB4018PR50gene.tsv
+BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_CMB4017GFP_CMB4018PR50_R2.cov.RPM.Prob_0.9.BINOM.yesSign.uniqisoCMB4017GFPgene.tsv.
+BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_CMB4017GFP_CMB4018PR50_R2.cov.RPM.Prob_0.9.BINOM.yesSign.uniqisoCMB4018PR50gene.tsv
+```
 
 ## A240707_DEG_SCATAC
-![image](https://github.com/denchugen/als/assets/8020391/138dce9c-7e28-4207-874e-9b54686ac753)
+![image](https://github.com/denchugen/als/assets/8020391/6ea2edb3-a9e8-47d8-a5dd-e7e06fa4a859)
 
 ```
 BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_SAR4003AM_SAR4004AM.cov.RPM.Prob_0.6.BINOM.yesSign.uniqiso
