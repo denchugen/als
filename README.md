@@ -1,5 +1,18 @@
 # als
 
+
+
+## A240707_DEG_SCATAC
+![image](https://github.com/denchugen/als/assets/8020391/138dce9c-7e28-4207-874e-9b54686ac753)
+
+```
+BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_SAR4003AM_SAR4004AM.cov.RPM.Prob_0.6.BINOM.yesSign.uniqiso
+/Volumes/TOSHIBA/ALS/A240707_DEG_SCATAC/SH07_UNIQ_PLOT_SIGN.R
+BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_SAR4003AM_SAR4004AM.cov.RPM.Prob_0.6.BINOM.yesSign.uniqiso.gene.txt
+/Volumes/TOSHIBA/ALS/A240707_DEG_SCATAC/BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_SAR4003AM_SAR4004AM.cov.RPM.Prob_0.6.BINOM.yesSign.uniqiso.sign3.gene.tsv
+/Volumes/TOSHIBA/ALS/A240707_DEG_SCATAC/BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_SAR4003AM_SAR4004AM.cov.RPM.Prob_0.6.BINOM.yesSign.uniqiso.sign4.gene.tsv
+```
+
 ## A240707_DEG_SCATAC
 ![image](https://github.com/denchugen/als/assets/8020391/2e7bfd4b-a9f2-48a0-a43e-5e0ef9c1e650)
 
