@@ -13,7 +13,13 @@ BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_SAR4003AM_SAR4004AM.cov.RPM.Pr
 /Volumes/TOSHIBA/ALS/A240707_DEG_SCATAC/BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_SAR4003AM_SAR4004AM.cov.RPM.Prob_0.6.BINOM.yesSign.uniqiso.sign4.gene.tsv
 ```
 
-## A240707_DEG_SCATAC
+1. select all isoform of mm10
+2. hit all isofom by SAR4003AM and SAR4004AM
+3. calculate RPM by divided uniqpe-mapped_reads
+4. calculate binom.test of the two rpm
+5. set probabiliy = 0.5 and 0.6
+6. plot x=log10(p), y=log(rpm)
+7. plot  probabiliy = 0.5 and 0.6 as comaration
 ![image](https://github.com/denchugen/als/assets/8020391/2e7bfd4b-a9f2-48a0-a43e-5e0ef9c1e650)
 
 SAR4003AM.RPM.x100.bedgraph.mm10
