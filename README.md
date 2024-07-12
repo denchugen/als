@@ -1,4 +1,18 @@
 # als
+
+## A240712_YQ_BOX
+![63081720781379_ pic](https://github.com/user-attachments/assets/2658facb-24d3-430a-9612-5103a90e1ab7)
+E:\data\peak\peak10\AMB4003-AMB4004\TOP25peak
+/mnt/hgfs/YQ2409/20240528-ATAC-peak-correlation/AMB4003-AMB4004/AMB4003-AMB4004-top25
+
+
+
+
+
+
+
+
+
 ## /Volumes/TOSHIBA/ALS/A240708_CMB4017PR50_4018GFP_CHIPcDNA
 ![image](https://github.com/denchugen/als/assets/8020391/6946aeb5-166e-46cb-951f-d1b3287b16ba)
 ```
