@@ -89,6 +89,16 @@ paste <(awk '{OFS="\t"; print $1,$2,$3}' SAR4004Amm10.Dedup.L0.D34.bedgraph.mm10
 ---
 
 ## A240705_MS_GO
+
+![SH55_point_MSGO R](https://github.com/user-attachments/assets/0d8f772f-8ab3-4130-9d49-6e54ccb2b15b)
+
+/Volumes/TOSHIBA/ALS/A240705_MS_GO/SH55_point_MSGO.R
+![image](https://github.com/user-attachments/assets/42a790e7-4f5c-44ab-9a2f-549a8e1370db)
+
+/Volumes/TOSHIBA/ALS/A240705_MS_GO/SH52_PLOT_MSSCATTER.R
+
+---
+
 ![image](https://github.com/denchugen/als/assets/8020391/fcd5df71-f340-4fc8-9f89-2ba253e98379)
 
 
