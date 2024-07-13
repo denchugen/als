@@ -61,7 +61,9 @@ cat SH02.gene_list_type
 cat BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_SAR4003AM_SAR4004AM.cov.RPM.Prob_0.6.BINOM.yesSign.uniqiso.sign3.gene.tsv|cut -f5|grep -v gene|awk '{print $0"\t3GAO"}' > GAO3.list
 cat BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_SAR4003AM_SAR4004AM.cov.RPM.Prob_0.6.BINOM.yesSign.uniqiso.sign4.gene.tsv|cut -f5|grep -v gene|awk '{print $0"\t4GAO"}' > GAO4.list
  cat GAO3.list GAO4.list > CMB.gene_type.list
-
+ 
+#### SH10_cell_count.R
+![image](https://github.com/user-attachments/assets/6fda3622-72e2-4f42-aa40-b9eb9d9f2a27)
 
 
 
