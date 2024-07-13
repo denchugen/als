@@ -79,6 +79,15 @@ chr1:15757832-15757964                  0                  0                  0 
 #### SH12_pheatmap.R
 ![image](https://github.com/user-attachments/assets/60723caf-8518-49de-9748-774dad83f6ef)
 /Volumes/TOSHIBA/ALS/A240709_ASIGN_DEG240707_to_singleCell/SH12_pheatmap.R
+
+#### 
+![image](https://github.com/user-attachments/assets/946ee21d-6099-4ebe-9647-e62f851b0465)
+
+/Volumes/TOSHIBA/ALS/A240709_ASIGN_DEG240707_to_singleCell/SH20_plot_cellrange_cluster.R
+
+
+
+
 ---
 
 ## A240712_YQ_BOX
