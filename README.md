@@ -1,7 +1,20 @@
 # als
 ## A240709_ASIGN_DEG240707_to_singleCell
+
+#### SH01 scATAC cluster from cellranger
 ![image](https://github.com/user-attachments/assets/d4c5922e-5ba9-40c6-a811-ed53963ca74c)
 /Volumes/TOSHIBA/ALS/A240709_ASIGN_DEG240707_to_singleCell/SH01_PLOT_DD.R
+
+#### SH02 gene list
+
+cat SH02.gene_list_type
+
+cat BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_SAR4003AM_SAR4004AM.cov.RPM.Prob_0.6.BINOM.yesSign.uniqiso.sign3.gene.tsv|cut -f5|grep -v gene|awk '{print $0"\t3GAO"}' > GAO3.list
+cat BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_SAR4003AM_SAR4004AM.cov.RPM.Prob_0.6.BINOM.yesSign.uniqiso.sign4.gene.tsv|cut -f5|grep -v gene|awk '{print $0"\t4GAO"}' > GAO4.list
+ cat GAO3.list GAO4.list > CMB.gene_type.list
+
+
+
 
 
 
