@@ -3,15 +3,20 @@
 ## A240707_DEG_SCATAC
 ![image](https://github.com/user-attachments/assets/c42f91b7-083d-4b5d-91fe-a8ef20cd08c7)
 /Volumes/TOSHIBA/ALS/A240707_DEG_SCATAC/SH07_UNIQ_PLOT_SIGN_0.6.R
-(base) chia-pipe@simonpipe:/mnt/hgfs/H24D9/SM2409/ALS/A240707_DEG_SCATAC_SVR$ 
-BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed
-1. SV:  hit mm10 all isoform by BAMs from SAR4003AM and SAR4004AM.
+
+### SERVER-END
+##### (base) chia-pipe@simonpipe:/mnt/hgfs/H24D9/SM2409/ALS/A240707_DEG_SCATAC_SVR$ 
+##### BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed
+1. hit mm10 all isoform by BAMs from SAR4003AM and SAR4004AM.
 2. hit --> RPM (by Deduplicated uniquely mappable read pairs) -->
 3. Calculate the p-value using the cumulative distribution function (CDF) of the binomial distribution
 
 *expected_prob == 0.6*
 
-    ```p_value = 1 - binom.cdf(successes - 1, trials, expected_prob)```
+    ```
+    from scipy.stats import binom
+    p_value = 1 - binom.cdf(successes - 1, trials, expected_prob)
+    ```
 4. cat SH04
 
 
