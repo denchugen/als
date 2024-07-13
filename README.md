@@ -1,7 +1,6 @@
 # als
 ## A240709_ASIGN_DEG240707_to_singleCell
-![image](https://github.com/user-attachments/assets/0cb3f3fe-fa23-4027-bea8-eba065d745ce)
-
+![image](https://github.com/user-attachments/assets/d4c5922e-5ba9-40c6-a811-ed53963ca74c)
 /Volumes/TOSHIBA/ALS/A240709_ASIGN_DEG240707_to_singleCell/SH01_PLOT_DD.R
 
 
