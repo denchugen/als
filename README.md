@@ -26,7 +26,6 @@ BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_CMB4017GFP_CMB4018PR50_R2.cov.
 BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_CMB4017GFP_CMB4018PR50_R2.cov.RPM.Prob_0.9.BINOM.yesSign.uniqisoCMB4018PR50gene.tsv
 ```
 
-## A240707_DEG_SCATAC
 ![image](https://github.com/denchugen/als/assets/8020391/6ea2edb3-a9e8-47d8-a5dd-e7e06fa4a859)
 
 ```
