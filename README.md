@@ -81,12 +81,13 @@ chr1:15757832-15757964                  0                  0                  0 
 /Volumes/TOSHIBA/ALS/A240709_ASIGN_DEG240707_to_singleCell/SH12_pheatmap.R
 
 #### 
-![image](https://github.com/user-attachments/assets/946ee21d-6099-4ebe-9647-e62f851b0465)
+![image](https://github.com/user-attachments/assets/74e4b01a-a9b9-4cec-bc44-ff41430238a6)
 
 /Volumes/TOSHIBA/ALS/A240709_ASIGN_DEG240707_to_singleCell/SH20_plot_cellrange_cluster.R
+![image](https://github.com/user-attachments/assets/fa48e0ec-b56a-4964-a0bb-1fcdb8fa3175)
 
 
-
+/Volumes/TOSHIBA/ALS/A240709_ASIGN_DEG240707_to_singleCell/SH21_4004plot_cellrange_cluster.R
 
 ---
 
