@@ -99,8 +99,23 @@ chr1:15757832-15757964                  0                  0                  0 
 ![image](https://github.com/user-attachments/assets/f5fa9077-3430-4e96-a6e4-14cf0cbecf7e)
 [1] "/Volumes/TOSHIBA/ALS/A240709_ASIGN_DEG240707_to_singleCell/SH21B_4004_filterout_cluster1.R"
 
+#### send back to SVR cellrange analysis again
+/mnt/hgfs/H24D9/SM2409/ALS/A240709_ASIGN_DEG240707_to_singleCell/SAR4003AMNOCLU/
+/mnt/hgfs/H24D9/SM2409/ALS/A240709_ASIGN_DEG240707_to_singleCell/SAR4004AMNOCLU
 
-
+```
+$ cat SH02.run_cellranger_atac.sh 
+OUT="SAR4003AMNOCLU1_OUTS"
+rm -rf $OUT  __${OUT}.mro
+nohup ./cellranger-atac reanalyze
+--id $OUT
+--peaks PEAK
+--fragments atac_fragments.tsv.gz
+--reference REF.mm10
+--barcodes BC
+--nopreflight
+```
+![image](https://github.com/user-attachments/assets/d925abe5-7cfc-4cd7-b6aa-543ab609af4c)
 
 
 
