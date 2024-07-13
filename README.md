@@ -91,6 +91,22 @@ chr1:15757832-15757964                  0                  0                  0 
 
 /Volumes/TOSHIBA/ALS/A240709_ASIGN_DEG240707_to_singleCell/SH21_4004plot_cellrange_cluster.R
 
+#### delete Cluster-1 (low fragment cell)
+![image](https://github.com/user-attachments/assets/5904787c-0461-4c82-b19b-b350180c3335)
+
+[1] "/Volumes/TOSHIBA/ALS/A240709_ASIGN_DEG240707_to_singleCell/SH20B_4003_filterout_cluster1.R"
+
+![image](https://github.com/user-attachments/assets/f5fa9077-3430-4e96-a6e4-14cf0cbecf7e)
+[1] "/Volumes/TOSHIBA/ALS/A240709_ASIGN_DEG240707_to_singleCell/SH21B_4004_filterout_cluster1.R"
+
+
+
+
+
+
+
+
+
 ---
 
 ## A240712_YQ_BOX
