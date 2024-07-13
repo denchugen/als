@@ -65,9 +65,17 @@ cat BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_SAR4003AM_SAR4004AM.cov.RP
 #### SH10_cell_count.R
 ![image](https://github.com/user-attachments/assets/6fda3622-72e2-4f42-aa40-b9eb9d9f2a27)
 
-
-
-
+#### SH10_cell_count.R.png
+            seurat_obj_filtered_SO03A_matrix.csv
+```
+df_seurat_obj_matrix[1:5,1:10]
+                       AAACAGCCAACTAGAA-1 AAACAGCCACTAAGAA-1 AAACATGCAAGCCAGA-1 AAACATGCAATTTAGC-1 AAACATGCACAAAGAC-1 AAACATGCACCTCACC-1 AAACATGCACGAATCC-1 AAACATGCATTGTCAG-1 AAACCAACAATATAGG-1 AAACCAACATGTCAGC-1
+chr1:5644645-5644746                    0                  0                  0                  0                  0                  0                  0                  0                  0                  0
+chr1:9191067-9192117                    0                  0                  0                  0                  0                  0                  0                  0                  0                  0
+chr1:9802197-9802554                    0                  0                  0                  0                  0                  0                  0                  0                  0                  0
+chr1:14182578-14182678                  0                  0                  0                  0                  0                  0                  0                  0                  0                  0
+chr1:15757832-15757964                  0                  0                  0                  0                  0                  0                  0                  0                  0                  0
+```
 
 ---
 
