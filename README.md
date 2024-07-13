@@ -29,7 +29,7 @@
 ![image](https://github.com/user-attachments/assets/d4c5922e-5ba9-40c6-a811-ed53963ca74c)
 /Volumes/TOSHIBA/ALS/A240709_ASIGN_DEG240707_to_singleCell/SH01_PLOT_DD.R
 
-#### SH02 gene list
+#### SH02 ATAC变化大的基因list from A240707_DEG_SCATAC
 
 cat SH02.gene_list_type
 
