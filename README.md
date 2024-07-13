@@ -14,6 +14,9 @@
 *expected_prob == 0.6*
 
     ```
+    Python (v3.10.13)
+    scipy (v1.12.0)
+    
     from scipy.stats import binom
     p_value = 1 - binom.cdf(successes - 1, trials, expected_prob)
     ```
