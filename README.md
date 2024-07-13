@@ -25,7 +25,9 @@
 
 ## A240709_ASIGN_DEG240707_to_singleCell
 ### SVR-END
+
 (base) chia-pipe@simonpipe:/mnt/hgfs/H24D9/SM2409/ALS/A240709_ASIGN_DEG240707_to_singleCell/SAR4003AMOUT$ 
+
 (base) chia-pipe@simonpipe:/mnt/hgfs/H24D9/SM2409/ALS/A240709_ASIGN_DEG240707_to_singleCell/SAR4004AMOUT$ 
 
 1. SH00.data.sh
@@ -33,15 +35,20 @@
  1069  scp -r -P 1917 BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_SAR4003AM_SAR4004AM.cov.RPM.Prob_0.6.BINOM.yesSign.uniqiso.sign3.gene.tsv chia-pipe@10.20.1.138:/mnt/hgfs/H24D9/SM2409/ALS/A240709_ASIGN_DEG240707_to_singleCell/SAR4003AMOUT/
  1070  scp -r -P 1917 BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_SAR4003AM_SAR4004AM.cov.RPM.Prob_0.6.BINOM.yesSign.uniqiso.sign4.gene.tsv chia-pipe@10.20.1.138:/mnt/hgfs/H24D9/SM2409/ALS/A240709_ASIGN_DEG240707_to_singleCell/SAR4003AMOUT/
 ```
-   438 BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_SAR4003AM_SAR4004AM.cov.RPM.Prob_0.6.BINOM.yesSign.uniqiso.sign3.gene.tsv
-   451 BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_SAR4003AM_SAR4004AM.cov.RPM.Prob_0.6.BINOM.yesSign.uniqiso.sign4.gene.tsv
-   889 total
+
+       438 BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_SAR4003AM_SAR4004AM.cov.RPM.Prob_0.6.BINOM.yesSign.uniqiso.sign3.gene.tsv
+      
+       451 BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed.hitby_SAR4003AM_SAR4004AM.cov.RPM.Prob_0.6.BINOM.yesSign.uniqiso.sign4.gene.tsv
+      
+       889 total
    
 2. combine XXX.sign3.gene.tsv and XXX. sign4.gene.tsv --(remove 乱七八糟chrom)> SM240707_peaks.bed.sC.clean
 3. --(merge ovarlapeed peaks region)--> SM240707_peaks.all.sC.clean.lineID.merged.ID (864）
 4. run "cellranger-atac reanalyze" 得到基于自定义peak的scATAC matrix
--- /mnt/hgfs/H24D9/SM2409/ALS/A240709_ASIGN_DEG240707_to_singleCell/SAR4004AMOUT/SH02.run_cellranger_atac.sh
--- cellranger-atac-2.1.0
+
+        -- /mnt/hgfs/H24D9/SM2409/ALS/A240709_ASIGN_DEG240707_to_singleCell/SAR4004AMOUT/SH02.run_cellranger_atac.sh
+        
+        -- cellranger-atac-2.1.0
 ### MC-END
 #### SH01 scATAC cluster from cellranger
 ![image](https://github.com/user-attachments/assets/d4c5922e-5ba9-40c6-a811-ed53963ca74c)
