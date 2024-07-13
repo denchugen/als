@@ -1,4 +1,12 @@
 # als
+
+## A240707_DEG_SCATAC
+![image](https://github.com/user-attachments/assets/c42f91b7-083d-4b5d-91fe-a8ef20cd08c7)
+/Volumes/TOSHIBA/ALS/A240707_DEG_SCATAC/SH07_UNIQ_PLOT_SIGN_0.6.R
+
+
+
+
 ## A240709_ASIGN_DEG240707_to_singleCell
 
 #### SH01 scATAC cluster from cellranger
