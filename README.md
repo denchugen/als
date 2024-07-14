@@ -1,4 +1,7 @@
 # als
+/mnt/hgfs/JK2410/20240516
+是联合PIPELINE ARC处理的
+
 
 ## A240707_DEG_SCATAC
 ![image](https://github.com/user-attachments/assets/c42f91b7-083d-4b5d-91fe-a8ef20cd08c7)
