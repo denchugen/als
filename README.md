@@ -1,4 +1,4 @@
-# als
+![image](https://github.com/user-attachments/assets/1dfb4d32-b49f-48f5-b18c-0a9254f5624a)# als
 /mnt/hgfs/JK2410/20240516
 是联合PIPELINE ARC处理的
 
@@ -14,6 +14,13 @@
 ![image](https://github.com/user-attachments/assets/daffa5f3-7084-462c-9e18-d7bb188172d1)
 
 ![image](https://github.com/user-attachments/assets/fb2a18da-f5c8-47a9-9107-aea3c1e06f71)
+### UMI > 300
+
+
+![image](https://github.com/user-attachments/assets/49f0bf0c-5857-42b0-a2cc-30bd07c5f198)
+
+![image](https://github.com/user-attachments/assets/97a4c06f-ef90-4f6b-b8e0-60ed5db2536b)
+
 
 
 ## A240707_DEG_SCATAC
