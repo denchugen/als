@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/1dfb4d32-b49f-48f5-b18c-0a9254f5624a)# als
 /mnt/hgfs/JK2410/20240516
 是联合PIPELINE ARC处理的
 
