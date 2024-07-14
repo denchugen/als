@@ -27,6 +27,7 @@
 ### self_cluster
 ![image](https://github.com/user-attachments/assets/3ae51915-1d05-40ff-82b9-24bf80aaa15b)
 ![image](https://github.com/user-attachments/assets/0dab71a6-dcc1-4e53-a888-471623b7dfbf)
+![image](https://github.com/user-attachments/assets/fa185691-7b26-4ea6-92fc-50091260ad3e)
 
 
 
