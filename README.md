@@ -2,9 +2,11 @@
 /mnt/hgfs/JK2410/20240516
 是联合PIPELINE ARC处理的
 
+
 ## A240714_6108_SAR40034004
-![image](https://github.com/user-attachments/assets/3b30e929-fb31-4859-9bb1-a10cd1d29b62)
-![image](https://github.com/user-attachments/assets/66848f3e-a0e1-4e47-855b-5eb7d5418b78)
+![image](https://github.com/user-attachments/assets/695bdb16-8dda-4704-9eb3-f0b5fe5821d1)
+
+![image](https://github.com/user-attachments/assets/8a7722dd-ed56-43ca-8357-3e50548cdb4b)
 
 
 /Volumes/TOSHIBA/ALS/A240714_6108_SAR40034004/SH01_ARC_Seurat.R
