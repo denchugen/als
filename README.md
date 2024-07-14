@@ -24,6 +24,11 @@
 
 ![image](https://github.com/user-attachments/assets/97a4c06f-ef90-4f6b-b8e0-60ed5db2536b)
 
+### self_cluster
+![image](https://github.com/user-attachments/assets/3ae51915-1d05-40ff-82b9-24bf80aaa15b)
+![image](https://github.com/user-attachments/assets/0dab71a6-dcc1-4e53-a888-471623b7dfbf)
+
+
 
 
 ## A240707_DEG_SCATAC
