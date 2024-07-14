@@ -14,7 +14,8 @@
 ![image](https://github.com/user-attachments/assets/daffa5f3-7084-462c-9e18-d7bb188172d1)
 
 ![image](https://github.com/user-attachments/assets/fb2a18da-f5c8-47a9-9107-aea3c1e06f71)
-### UMI > 300
+### UMI > 300 Number of nodes: 6970 Number of edges: 200959
+
 
 
 ![image](https://github.com/user-attachments/assets/49f0bf0c-5857-42b0-a2cc-30bd07c5f198)
