@@ -117,7 +117,11 @@ nohup ./cellranger-atac reanalyze
 ```
 ![image](https://github.com/user-attachments/assets/d925abe5-7cfc-4cd7-b6aa-543ab609af4c)
 
+#### SAR4003AMNOCLU1_OUTS
+![image](https://github.com/user-attachments/assets/657e05fe-ac57-483e-ad51-e2c4cadc7138)
 
+ scp -r -P 1912 simon@10.20.1.138:/mnt/hgfs/ALS/A240709_ASIGN_DEG240707_to_singleCell/SAR4003AMNOCLU1/SAR4003AMNOCLU1_OUTS/outs .
+ /Volumes/TOSHIBA/ALS/A240709_ASIGN_DEG240707_to_singleCell/SAR4003AMNOCLU1_OUTS/outs
 
 
 
