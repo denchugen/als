@@ -11,7 +11,8 @@
 
 /Volumes/TOSHIBA/ALS/A240714_6108_SAR40034004/SH01_ARC_Seurat.R
 ![image](https://github.com/user-attachments/assets/8a127eae-c702-482d-94d4-d4f39f22e3c0)
-![image](https://github.com/user-attachments/assets/f83ccb5d-52a7-4c4b-8f14-494f03540970)
+![image](https://github.com/user-attachments/assets/daffa5f3-7084-462c-9e18-d7bb188172d1)
+
 ![image](https://github.com/user-attachments/assets/fb2a18da-f5c8-47a9-9107-aea3c1e06f71)
 
 
