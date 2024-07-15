@@ -33,6 +33,7 @@
 ![image](https://github.com/user-attachments/assets/d24075aa-2f39-4341-9d33-ffce2ae4b1ad)
 
 ![image](https://github.com/user-attachments/assets/4b3adc14-8b99-4b04-950a-20fcd69a83a5)
+![image](https://github.com/user-attachments/assets/4ec6902f-b071-4c80-9b0b-42279de75ffa)
 
 ## A240707_DEG_SCATAC
 ![image](https://github.com/user-attachments/assets/c42f91b7-083d-4b5d-91fe-a8ef20cd08c7)
