@@ -41,6 +41,18 @@
 ![image](https://github.com/user-attachments/assets/c42f91b7-083d-4b5d-91fe-a8ef20cd08c7)
 /Volumes/TOSHIBA/ALS/A240707_DEG_SCATAC/SH07_UNIQ_PLOT_SIGN_0.6.R
 
+#### /Volumes/TOSHIBA/ALS/A240714_6108_SAR40034004/SH20_read_DMN.R
+![image](https://github.com/user-attachments/assets/f5fec5e0-1816-40b7-8fda-31fb09f46e6c)
+![63371721128921_ pic](https://github.com/user-attachments/assets/b30b9ab2-13c2-43ec-a2b4-a9401744592a)
+
+![63401721129524_ pic](https://github.com/user-attachments/assets/a68ce0d6-e711-4519-b54f-1014cb998078)
+![63391721129194_ pic](https://github.com/user-attachments/assets/0c4bfca9-477f-42ed-bae3-5a91cbbf8b23)
+
+![63411721129548_ pic](https://github.com/user-attachments/assets/8945958b-0d3f-4f86-a4da-43463ba0e3d5)
+
+
+
+---
 ##### (base) chia-pipe@simonpipe:/mnt/hgfs/H24D9/SM2409/ALS/A240707_DEG_SCATAC_SVR$ 
 ##### BASIC_UCSC_mm10_knownGene_GENECODE_VM23.bed
 1. （SERVER-END）hit mm10 all isoform by BAMs from SAR4003AM and SAR4004AM.
