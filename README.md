@@ -1,5 +1,6 @@
 /mnt/hgfs/JK2410/20240516
 是联合PIPELINE ARC处理的
+![image](https://github.com/user-attachments/assets/578e7496-9d49-4f71-865c-92d16e02d4bc)
 
 
 ## A240714_6108_SAR40034004
